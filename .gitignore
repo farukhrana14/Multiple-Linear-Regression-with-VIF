@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+.env/
+.venv/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+
+# Excel, CSV and logs
+*.xlsx
+*.csv
+*.log
+
+# Ignore Excel regression outputs (optional)
+Full_OLS_Regression_Report.xlsx
+VIF_Table.xlsx
+Reduced_Model_Summary.xlsx
